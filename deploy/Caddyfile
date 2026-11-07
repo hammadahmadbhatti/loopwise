@@ -1,0 +1,10 @@
+{$DOMAIN} {
+	encode gzip
+	# API (including public widget/portal endpoints) goes straight to FastAPI
+	handle /api/* {
+		reverse_proxy api:8000
+	}
+	handle {
+		reverse_proxy web:3000
+	}
+}

@@ -1,0 +1,77 @@
+text,email,name,company,country,plan,mrr,rating,created_at,source
+Any plans for a dark theme? The bright white UI is hard on the eyes.,james@redwood.example.com,James Miller,Redwood Labs,United States,Pro,199,4,2026-08-12 03:12:00,support
+Your support team is amazing. Fixed my issue within an hour. Thank you!,isla@thistle.example.com,Isla Campbell,Thistle & Co,United Kingdom,Pro,199,5,2026-08-14 04:47:00,email
+"Necesitamos que la app móvil funcione sin conexión, nuestros técnicos trabajan en el campo.",carlos@solmedia.example.com,Carlos Ruiz,Sol Media,Spain,Pro,199,3,2026-08-19 11:46:00,widget
+Our IT department won't approve the tool without SAML single sign-on support.,sarah@acme.example.com,Sarah Johnson,Acme Corp,United States,Enterprise,2500,2,2026-08-23 06:29:00,widget
+Please integrate with Slack and Microsoft Teams for alerts.,mike@brightpath.example.com,Mike Chen,BrightPath,United States,Pro,199,4,2026-08-25 03:57:00,support
+"Fantastic customer service, Maria was super helpful and patient.",emily@harbor.example.com,Emily Davis,Harbor Freight Tech,United States,Enterprise,2200,5,2026-08-26 02:30:00,survey
+SAMLによるシングルサインオンに対応してほしいです。セキュリティ部門の要件です。,yuki@sakura.example.com,Yuki Tanaka,Sakura Systems,Japan,Enterprise,2000,3,2026-08-27 10:55:00,app_review
+Uploading attachments crashes the app on Safari. Error 500 every time.,zanele@capetown.example.com,Zanele Dlamini,Cape Town Co,South Africa,Starter,49,1,2026-08-27 10:56:00,email
+La aplicación se cae cada vez que subo un archivo grande. Error constante.,valentina@pampa.example.com,Valentina Gómez,Pampa Digital,Argentina,Pro,199,1,2026-08-30 07:21:00,email
+Dark mode please! Everything else is great.,fatima@lahoretech.example.com,Fatima Khan,Lahore Tech,Pakistan,Starter,49,5,2026-09-01 07:25:00,widget
+We need SSO with Okta or Azure AD before we can roll this out to the whole company.,tom@freeuser.example.com,Tom Baker,,United States,Free,0,3,2026-09-04 02:48:00,survey
+"File upload is broken, it fails with an error after reaching 90%.",ava@pinecrest.example.com,Ava Moore,Pinecrest,United States,Free,0,2,2026-09-04 07:52:00,support
+"Graag een donkere modus toevoegen, dat zou fijn zijn.",daan@grachten.example.com,Daan de Vries,Grachten BV,Netherlands,Pro,199,4,2026-09-04 10:05:00,support
+"Vorrei una modalità scura, sarebbe molto più comoda di sera.",giulia@milano.example.com,Giulia Rossi,Milano Design,Italy,Pro,199,4,2026-09-10 11:14:00,support
+"Super Support, sehr schnelle und hilfreiche Antwort. Danke!",nina@freelance.example.com,Nina Schulz,,Germany,Free,0,5,2026-09-13 06:33:00,app_review
+"Assistenza eccellente, veloci e gentilissimi. Grazie!",giulia@milano.example.com,Giulia Rossi,Milano Design,Italy,Pro,199,5,2026-09-14 09:43:00,app_review
+"Love the product, the onboarding was smooth and easy. Great job!",ahmed@dubaiventures.example.com,Ahmed Al Mansoori,Dubai Ventures,United Arab Emirates,Enterprise,1700,5,2026-09-16 08:54:00,widget
+"Service client excellent, réponse rapide et utile. Merci beaucoup !",camille@lumiere.example.com,Camille Martin,Lumière Studio,France,Pro,199,5,2026-09-17 06:09:00,widget
+Het zou fijn zijn om rapporten naar CSV of Excel te exporteren.,daan@grachten.example.com,Daan de Vries,Grachten BV,Netherlands,Pro,199,,2026-09-20 10:25:00,support
+El precio es demasiado caro para equipos pequeños.,lucia@andesfin.example.com,Lucía Torres,Andes Finanzas,Chile,Enterprise,1500,2,2026-09-20 11:36:00,support
+Ohne SSO über Azure AD können wir das Tool nicht unternehmensweit einführen.,anna@northwind.example.com,Anna Becker,Northwind GmbH,Germany,Enterprise,2400,3,2026-09-22 07:45:00,widget
+"Ein Dark Mode wäre toll, besonders abends.",nina@freelance.example.com,Nina Schulz,,Germany,Free,0,4,2026-09-25 10:42:00,app_review
+Un mode hors ligne dans l'application mobile serait très utile sur le terrain.,camille@lumiere.example.com,Camille Martin,Lumière Studio,France,Pro,199,3,2026-09-26 10:28:00,survey
+The app crashes every time I upload a file larger than 10MB.,fatima@lahoretech.example.com,Fatima Khan,Lahore Tech,Pakistan,Starter,49,1,2026-09-28 11:00:00,app_review
+"O preço é caro demais para equipes pequenas, estamos pensando em cancelar.",beatriz@lisboa.example.com,Beatriz Costa,Lisboa Cloud,Portugal,Starter,49,2,2026-10-02 05:16:00,email
+"Password reset emails never arrive, I'm locked out of my account and can't log in.",olivia@greenleaf.example.com,Olivia Brown,Greenleaf,United States,Starter,49,1,2026-10-02 09:52:00,app_review
+"Ich kann mich nicht anmelden, die E-Mail zum Zurücksetzen des Passworts kommt nie an.",jonas@alpenlogistik.example.com,Jonas Gruber,Alpen Logistik,Austria,Starter,49,1,2026-10-03 04:53:00,survey
+Il menu delle impostazioni è complicato e confuso.,giulia@milano.example.com,Giulia Rossi,Milano Design,Italy,Pro,199,3,2026-10-05 05:52:00,support
+"La navigation n'est pas intuitive, je ne trouve jamais les paramètres d'équipe.",chloe@montreal-ux.example.com,Chloé Tremblay,Montréal UX,Canada,Enterprise,1200,3,2026-10-05 08:18:00,support
+Seria ótimo poder exportar os relatórios para CSV. Hoje copiamos tudo manualmente.,rafael@saopaulo.example.com,Rafael Souza,SP Commerce,Brazil,Enterprise,2100,4,2026-10-05 11:14:00,app_review
+Die App stürzt beim Hochladen größerer Dateien jedes Mal ab.,anna@northwind.example.com,Anna Becker,Northwind GmbH,Germany,Enterprise,2400,1,2026-10-07 06:42:00,survey
+Love the tool but the price per seat is too high for a small startup like ours.,olivia@greenleaf.example.com,Olivia Brown,Greenleaf,United States,Starter,49,3,2026-10-08 09:34:00,app_review
+Offline mode for the iPhone app would be huge for us when visiting customer sites.,elin@stockholm.example.com,Elin Johansson,Stockholm Studio,Sweden,Free,0,3,2026-10-09 02:46:00,widget
+Bitte eine Export-Funktion für Berichte als CSV oder Excel hinzufügen. Wir kopieren alles manuell.,jonas@alpenlogistik.example.com,Jonas Gruber,Alpen Logistik,Austria,Starter,49,3,2026-10-10 04:23:00,support
+"We really need CSV export for the monthly reports, our finance team asks for it constantly.",liam@northstar.example.com,Liam Taylor,Northstar Dev,Canada,Pro,199,,2026-10-10 09:13:00,widget
+Für kleine Teams ist der Preis leider viel zu teuer. Wir überlegen zu kündigen.,jonas@alpenlogistik.example.com,Jonas Gruber,Alpen Logistik,Austria,Starter,49,2,2026-10-11 05:03:00,widget
+Sería genial poder exportar los informes a CSV o Excel. Ahora lo hacemos a mano.,lucia@andesfin.example.com,Lucía Torres,Andes Finanzas,Chile,Enterprise,1500,3,2026-10-11 06:54:00,widget
+"Suporte excelente, resolveram meu problema muito rápido. Obrigado!",joao@ipanema.example.com,João Silva,Ipanema Tech,Brazil,Pro,199,5,2026-10-14 08:26:00,app_review
+"Não consigo entrar, o email de redefinição de senha nunca chega.",rafael@saopaulo.example.com,Rafael Souza,SP Commerce,Brazil,Enterprise,2100,1,2026-10-17 05:18:00,support
+Single sign-on via Google Workspace is a must for our security team. Please add SAML SSO.,jack@outback.example.com,Jack Thompson,Outback Ops,Australia,Pro,199,3,2026-10-18 03:11:00,email
+"Ein PDF-Export der Berichte fehlt uns sehr, das wäre schön für unsere Kunden.",anna@northwind.example.com,Anna Becker,Northwind GmbH,Germany,Enterprise,2400,,2026-10-18 05:39:00,support
+Eine Slack-Integration für Benachrichtigungen wäre sehr hilfreich.,mia@zuriwerk.example.com,Mia Keller,Zuriwerk,Switzerland,Enterprise,1800,4,2026-10-18 11:28:00,widget
+"Me cobraron dos veces este mes, necesito un reembolso urgente o voy a cancelar.",valentina@pampa.example.com,Valentina Gómez,Pampa Digital,Argentina,Pro,199,1,2026-10-19 05:37:00,survey
+"A Slack integration for notifications would be great, so the team sees new alerts instantly.",ahmed@dubaiventures.example.com,Ahmed Al Mansoori,Dubai Ventures,United Arab Emirates,Enterprise,1700,4,2026-10-19 08:42:00,survey
+Billing charged our card twice after upgrading the plan. Very frustrating.,liam@northstar.example.com,Liam Taylor,Northstar Dev,Canada,Pro,199,1,2026-10-20 03:44:00,email
+"J'ai été débité deux fois pour l'abonnement ce mois-ci, merci de me rembourser.",hugo@atelier-nord.example.com,Hugo Bernard,Atelier Nord,France,Starter,49,1,2026-10-21 04:55:00,widget
+Navigation is unintuitive. Too many clicks to get to the team settings.,priya@chennai.example.com,Priya Raman,Chennai Soft,India,Pro,199,3,2026-10-23 02:45:00,email
+The password reset email goes nowhere. Checked spam too. I cannot log in at all.,arjun@bangalore.example.com,Arjun Mehta,Bangalore Labs,India,Starter,49,1,2026-10-23 03:12:00,survey
+Our invoice shows a double charge for November. This needs to be fixed immediately or we cancel.,tom@freeuser.example.com,Tom Baker,,United States,Free,0,1,2026-10-23 09:44:00,survey
+Please add a way to export reports to CSV. We copy numbers into spreadsheets by hand every week.,tom@freeuser.example.com,Tom Baker,,United States,Free,0,3,2026-10-24 11:13:00,support
+J'aimerais pouvoir exporter les rapports en CSV ou PDF pour notre comptabilité.,lea@paris-free.example.com,Léa Dubois,,France,Free,0,,2026-10-26 06:06:00,support
+"Can't log in: the reset password link expired immediately. Urgent, my team is blocked.",elin@stockholm.example.com,Elin Johansson,Stockholm Studio,Sweden,Free,0,1,2026-10-26 07:27:00,email
+Exporting dashboards to PDF or Excel would save us hours. Is this on the roadmap?,elin@stockholm.example.com,Elin Johansson,Stockholm Studio,Sweden,Free,0,3,2026-10-27 02:33:00,widget
+Can't share reports with my boss because there is no export to PDF. Would love that feature.,sarah@acme.example.com,Sarah Johnson,Acme Corp,United States,Enterprise,2500,,2026-10-27 08:46:00,email
+Your pricing is way too expensive for small teams. We are looking at alternatives.,liam@northstar.example.com,Liam Taylor,Northstar Dev,Canada,Pro,199,2,2026-10-29 04:09:00,email
+"The settings menu is confusing, I can never find where to manage users.",noah@summit.example.com,Noah Wilson,Summit AI,United States,Pro,199,2,2026-10-30 02:56:00,survey
+"Would love a dark mode, my eyes hurt when working late at night.",zanele@capetown.example.com,Zanele Dlamini,Cape Town Co,South Africa,Starter,49,4,2026-10-30 05:36:00,email
+"The mobile app needs an offline mode, our field technicians often have no signal.",liam@northstar.example.com,Liam Taylor,Northstar Dev,Canada,Pro,199,3,2026-10-30 06:59:00,email
+I was charged twice for this month's subscription. Please refund the duplicate payment urgently.,amelia@kiwiworks.example.com,Amelia Walker,KiwiWorks,New Zealand,Starter,49,1,2026-10-31 01:29:00,app_review
+"Excelente atención al cliente, muy rápidos y amables. ¡Gracias!",valentina@pampa.example.com,Valentina Gómez,Pampa Digital,Argentina,Pro,199,5,2026-11-01 01:19:00,widget
+The jump from Starter to Pro is too expensive for a 3-person team. Thinking about switching to a competitor.,james@redwood.example.com,James Miller,Redwood Labs,United States,Pro,199,2,2026-11-01 01:26:00,widget
+Can you add Slack notifications when a report is ready?,mike@brightpath.example.com,Mike Chen,BrightPath,United States,Pro,199,4,2026-11-01 02:30:00,email
+Reports page times out constantly. This slowness is blocking our weekly review.,olivia@greenleaf.example.com,Olivia Brown,Greenleaf,United States,Starter,49,1,2026-11-01 08:05:00,widget
+"Le tableau de bord est devenu très lent, le chargement prend une éternité.",hugo@atelier-nord.example.com,Hugo Bernard,Atelier Nord,France,Starter,49,2,2026-11-01 11:09:00,support
+Uns wurde das Abo doppelt abgebucht. Bitte dringend erstatten.,anna@northwind.example.com,Anna Becker,Northwind GmbH,Germany,Enterprise,2400,1,2026-11-02 01:50:00,app_review
+"Das Dashboard ist seit dem letzten Update extrem langsam, das Laden dauert ewig.",nina@freelance.example.com,Nina Schulz,,Germany,Free,0,1,2026-11-02 01:56:00,email
+"Hard to find the billing page, the menu layout is cluttered and confusing.",zanele@capetown.example.com,Zanele Dlamini,Cape Town Co,South Africa,Starter,49,3,2026-11-02 02:55:00,app_review
+"El panel está lentísimo desde la última actualización, tarda muchísimo en cargar.",lucia@andesfin.example.com,Lucía Torres,Andes Finanzas,Chile,Enterprise,1500,2,2026-11-02 06:07:00,widget
+"The dashboard has become extremely slow since last week, it takes over 30 seconds to load.",tom@freeuser.example.com,Tom Baker,,United States,Free,0,1,2026-11-03 06:24:00,survey
+Missing CSV export is the main reason we still use our old reporting tool alongside yours.,zanele@capetown.example.com,Zanele Dlamini,Cape Town Co,South Africa,Starter,49,2,2026-11-04 03:48:00,email
+"O painel está muito lento, demora mais de um minuto para carregar os gráficos.",joao@ipanema.example.com,João Silva,Ipanema Tech,Brazil,Pro,199,1,2026-11-04 05:43:00,email
+Why is the dashboard so slow lately? Loading charts takes forever.,priya@chennai.example.com,Priya Raman,Chennai Soft,India,Pro,199,2,2026-11-05 04:20:00,support
+Performance of the analytics dashboard got much worse after the update. Super slow.,noah@summit.example.com,Noah Wilson,Summit AI,United States,Pro,199,2,2026-11-05 06:47:00,support
+ダッシュボードの読み込みが非常に遅くなりました。毎朝待たされています。,haruto@kyoto.example.com,Haruto Sato,Kyoto Craft,Japan,Pro,199,2,2026-11-05 10:47:00,email
+Die Ladezeit der Berichte ist unerträglich langsam geworden.,nina@freelance.example.com,Nina Schulz,,Germany,Free,0,2,2026-11-06 03:14:00,survey
+Dashboard loading is painfully slow now. Our whole team is waiting on it every morning.,olivia@greenleaf.example.com,Olivia Brown,Greenleaf,United States,Starter,49,2,2026-11-07 01:46:00,support

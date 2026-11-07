@@ -1,0 +1,4 @@
+text,email,name,company,country,plan,mrr,rating,created_at,source
+"The export to Excel keeps timing out on large reports.",jane@example.com,Jane Doe,Example Inc,United States,Pro,199,2,2026-01-15,support
+"Wir wünschen uns eine Integration mit Microsoft Teams.",max@example.com,Max Muster,Beispiel GmbH,Germany,Enterprise,1200,4,2026-01-16,survey
+"La aplicación es excelente, ¡gracias!",ana@example.org,Ana López,,Spain,Starter,49,5,2026-01-17,app_review
